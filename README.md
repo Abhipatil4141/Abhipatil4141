@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet P Patil</h1>
-<h3 align="center">A passionate Frontend developer from Pune Maharashatra</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhipatil4141&label=Profile%20views&color=0e75b6&style=flat" alt="abhipatil4141" /> </p>
 
