@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhipatil4141&label=Profile%20views&color=0e75b6&style=flat" alt="abhipatil4141" /> </p>
 
-- 🌱 I’m currently learning ** javascript ,React js ,NodeJs,**
+- 🌱 I’m currently learning ** MERN Stack**
 
 - 🤝 I’m looking for help with **Fullstack Development**
 
